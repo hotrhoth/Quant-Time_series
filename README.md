@@ -1,1 +1,2 @@
-# Quant-Time_series
+#### Quant-Time_series
+Author: Ho Thuy Tram
